@@ -1,3 +1,6 @@
 # kakao-clone
+* * *
+## Hello I am making kakao app view using only html,cs
+## Thanks.
 
-Kakao Desktop App Clone
+![](./images/kakaotalk.png "kakao img")
